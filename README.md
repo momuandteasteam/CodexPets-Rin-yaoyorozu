@@ -1,13 +1,13 @@
-# Codex Pet — Rin Miko
+# Codex Pet — 巫女りん
 
 [English](README.en.md) | 日本語
 
-Rin Miko（未来巫女・りん）は、Codex Desktopで使える非公式のカスタムPetです。リンを、白と朱の未来巫女装束、桜の髪飾り、青い結晶をまとったちびキャラクターとして仕上げています。
+巫女りんは、Codex Desktopで使える非公式のカスタムPetです。リンを、白と朱の未来巫女装束、桜の髪飾り、青い結晶をまとったちびキャラクターとして仕上げています。
 
 > [!IMPORTANT]
 > **個人・非商用のローカル利用のみ許可されています。再配布禁止です。** GitHub標準の閲覧・forkと正規リポジトリへのリンク共有を除き、転載、再アップロード、ミラー、同梱、商用利用、素材抽出、視覚素材の改変・派生利用、AI学習利用は禁止されています。詳細は[個人利用ライセンス](LICENSE.md)と[利用ガイド](docs/LICENSE_GUIDE.md)を確認してください。
 
-![未来巫女・りんの待機・手振り・ジャンプ・作業中のプレビュー](assets/hero.png)
+![巫女りんの待機・手振り・ジャンプ・作業中のプレビュー](assets/hero.png)
 
 ## 特徴
 
@@ -28,7 +28,7 @@ cd CodexPets-Rin-Miko
 ./scripts/install.sh
 ```
 
-Windowsでは`.\scripts\install.ps1`を使用できます。Codex Desktopを再起動し、Petの選択画面から「未来巫女・りん」を選んでください。詳しい手順と更新・削除方法は[インストールガイド](docs/INSTALLATION.md)にあります。
+Windowsでは`.\scripts\install.ps1`を使用できます。Codex Desktopを再起動し、Petの選択画面から「巫女りん」を選んでください。詳しい手順と更新・削除方法は[インストールガイド](docs/INSTALLATION.md)にあります。
 
 > [!NOTE]
 > このパッケージはCodex DesktopのローカルPet形式を対象としたコミュニティ提供のものです。アプリ更新により対応形式が変わる可能性があります。
@@ -65,7 +65,7 @@ Windowsでは`.\scripts\install.ps1`を使用できます。Codex Desktopを再�
 
 検証結果と既知の軽微な注意点は[QAレポート](docs/QA.md)にまとめています。
 
-![Rin Mikoの16方向視線](assets/look-directions.png)
+![巫女りんの16方向視線](assets/look-directions.png)
 
 ## リポジトリ構成
 

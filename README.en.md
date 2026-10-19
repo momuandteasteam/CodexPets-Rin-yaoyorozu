@@ -1,13 +1,13 @@
-# Codex Pet — Rin Miko
+# Codex Pet — 巫女りん
 
 English | [日本語](README.md)
 
-Rin Miko (未来巫女・りん) is an unofficial custom pet for Codex Desktop: a gentle chibi Rin in white-and-vermilion futuristic shrine-maiden attire, with a cherry-blossom hair ornament and blue crystals.
+巫女りん (Miko Rin) is an unofficial custom pet for Codex Desktop: a gentle chibi Rin in white-and-vermilion futuristic shrine-maiden attire, with a cherry-blossom hair ornament and blue crystals.
 
 > [!IMPORTANT]
 > **Only personal, non-commercial local use is permitted. Redistribution is prohibited.** Except for GitHub’s standard viewing/fork functionality and links to this official repository, reposting, re-uploading, mirroring, bundling, commercial use, asset extraction, visual modifications or derivative uses, and AI-training use are prohibited. See the [Personal-Use License](LICENSE.md) and [usage guide](docs/LICENSE_GUIDE.md).
 
-![Rin Miko in idle, waving, jumping and working poses](assets/hero.png)
+![巫女りん in idle, waving, jumping and working poses](assets/hero.png)
 
 ## Highlights
 
@@ -28,7 +28,7 @@ cd CodexPets-Rin-Miko
 ./scripts/install.sh
 ```
 
-On Windows, use `.\scripts\install.ps1`. Restart Codex Desktop, then select “未来巫女・りん” from the pet selector. See the [installation guide](docs/INSTALLATION.md) for update, verification, and removal instructions.
+On Windows, use `.\scripts\install.ps1`. Restart Codex Desktop, then select “巫女りん” from the pet selector. See the [installation guide](docs/INSTALLATION.md) for update, verification, and removal instructions.
 
 > [!NOTE]
 > This community package targets Codex Desktop's local pet-package format, which may change with app updates.
@@ -50,7 +50,7 @@ The final atlas has been checked for:
 
 See the [QA report](docs/QA.md) and [animation specification](docs/ANIMATION_SPEC.md) for details.
 
-![Rin Miko's sixteen look directions](assets/look-directions.png)
+![巫女りん's sixteen look directions](assets/look-directions.png)
 
 ## License
 

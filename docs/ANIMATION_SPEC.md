@@ -5,7 +5,7 @@
 | 項目 | 値 |
 |---|---|
 | Pet ID | `rin-miko` |
-| 表示名 | 未来巫女・りん |
+| 表示名 | 巫女りん |
 | Sprite version | `2` |
 | 形式 | WebP RGBA |
 | アトラス | `1536 × 2288 px` |
@@ -38,8 +38,8 @@ Unused cells are fully transparent. Look directions use screen coordinates: 000 
 ```json
 {
   "id": "rin-miko",
-  "displayName": "未来巫女・りん",
-  "description": "白と朱の未来巫女装束をまとった、穏やかなりん。青い結晶と桜の髪飾りが目印。",
+  "displayName": "巫女りん",
+  "description": "白と朱の巫女装束に、桜の髪飾りと青い結晶を合わせたりん。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

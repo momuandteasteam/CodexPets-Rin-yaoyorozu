@@ -1,12 +1,12 @@
 # ライセンス利用ガイド / License Usage Guide
 
-この文書は[Rin Miko個人利用ライセンス](../LICENSE.md)の理解を助けるための要約です。正式な条件は`LICENSE.md`が優先します。
+この文書は[巫女りん個人利用ライセンス](../LICENSE.md)の理解を助けるための要約です。正式な条件は`LICENSE.md`が優先します。
 
 ## 許可される例 / Allowed examples
 
 - 正規のGitHubリポジトリから自身の端末へcloneまたはダウンロードする
-- 自身が管理する端末のCodex DesktopへRin Mikoをインストールする
-- 個人・非商用でRin Mikoをローカル利用する
+- 自身が管理する端末のCodex Desktopへ巫女りんをインストールする
+- 個人・非商用で巫女りんをローカル利用する
 - 自分だけが利用できる私的バックアップを作る
 - 正規リポジトリのURLを友人やSNSで紹介する
 - GitHubの標準機能でforkを作る
