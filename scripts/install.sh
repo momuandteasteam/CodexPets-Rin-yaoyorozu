@@ -9,4 +9,4 @@ mkdir -p "$target_dir"
 cp "$script_dir/../pet/pet.json" "$target_dir/pet.json"
 cp "$script_dir/../pet/spritesheet.webp" "$target_dir/spritesheet.webp"
 
-printf 'Installed 巫女りん to %s\n' "$target_dir"
+printf 'Installed Rin（yaoyorozu衣装） to %s\n' "$target_dir"

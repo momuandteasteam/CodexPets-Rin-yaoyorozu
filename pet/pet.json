@@ -1,7 +1,7 @@
 {
   "id": "rin-miko",
-  "displayName": "巫女りん",
-  "description": "白と朱の巫女装束に、桜の髪飾りと青い結晶を合わせたりん。",
+  "displayName": "Rin（yaoyorozu衣装）",
+  "description": "yaoyorozu衣装をまとったRin。白と朱の装束、桜の髪飾り、青い結晶が目印。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

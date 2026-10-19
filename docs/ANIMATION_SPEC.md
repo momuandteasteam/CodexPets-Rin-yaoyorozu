@@ -5,7 +5,7 @@
 | 項目 | 値 |
 |---|---|
 | Pet ID | `rin-miko` |
-| 表示名 | 巫女りん |
+| 表示名 | Rin（yaoyorozu衣装） |
 | Sprite version | `2` |
 | 形式 | WebP RGBA |
 | アトラス | `1536 × 2288 px` |
@@ -38,8 +38,8 @@ Unused cells are fully transparent. Look directions use screen coordinates: 000 
 ```json
 {
   "id": "rin-miko",
-  "displayName": "巫女りん",
-  "description": "白と朱の巫女装束に、桜の髪飾りと青い結晶を合わせたりん。",
+  "displayName": "Rin（yaoyorozu衣装）",
+  "description": "yaoyorozu衣装をまとったRin。白と朱の装束、桜の髪飾り、青い結晶が目印。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

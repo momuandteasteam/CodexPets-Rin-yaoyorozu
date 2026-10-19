@@ -17,4 +17,4 @@ New-Item -ItemType Directory -Force -Path $targetDir | Out-Null
 Copy-Item -LiteralPath (Join-Path $packageRoot 'pet.json') -Destination $targetDir -Force
 Copy-Item -LiteralPath (Join-Path $packageRoot 'spritesheet.webp') -Destination $targetDir -Force
 
-Write-Host "Installed 巫女りん to $targetDir"
+Write-Host "Installed Rin（yaoyorozu衣装） to $targetDir"

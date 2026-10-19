@@ -1,13 +1,13 @@
-# Codex Pet — 巫女りん
+# Codex Pet — Rin (yaoyorozu Outfit)
 
 English | [日本語](README.md)
 
-巫女りん (Miko Rin) is an unofficial custom pet for Codex Desktop: a gentle chibi Rin in white-and-vermilion futuristic shrine-maiden attire, with a cherry-blossom hair ornament and blue crystals.
+A custom Codex Desktop pet based on Rin in the yaoyorozu outfit, featuring white-and-vermilion clothing, a cherry-blossom hair ornament, and blue crystals.
 
 > [!IMPORTANT]
 > **Only personal, non-commercial local use is permitted. Redistribution is prohibited.** Except for GitHub’s standard viewing/fork functionality and links to this official repository, reposting, re-uploading, mirroring, bundling, commercial use, asset extraction, visual modifications or derivative uses, and AI-training use are prohibited. See the [Personal-Use License](LICENSE.md) and [usage guide](docs/LICENSE_GUIDE.md).
 
-![巫女りん in idle, waving, jumping and working poses](assets/hero.png)
+![Rin (yaoyorozu Outfit) in idle, waving, jumping and working poses](assets/hero.png)
 
 ## Highlights
 
@@ -23,12 +23,12 @@ English | [日本語](README.md)
 Run the following on macOS or Linux:
 
 ```sh
-git clone https://github.com/momuandteasteam/CodexPets-Rin-Miko.git
-cd CodexPets-Rin-Miko
+git clone https://github.com/momuandteasteam/CodexPets-Rin-yaoyorozu.git
+cd CodexPets-Rin-yaoyorozu
 ./scripts/install.sh
 ```
 
-On Windows, use `.\scripts\install.ps1`. Restart Codex Desktop, then select “巫女りん” from the pet selector. See the [installation guide](docs/INSTALLATION.md) for update, verification, and removal instructions.
+On Windows, use `.\scripts\install.ps1`. Restart Codex Desktop, then select “Rin（yaoyorozu衣装）” from the pet selector. See the [installation guide](docs/INSTALLATION.md) for update, verification, and removal instructions.
 
 > [!NOTE]
 > This community package targets Codex Desktop's local pet-package format, which may change with app updates.
@@ -50,7 +50,7 @@ The final atlas has been checked for:
 
 See the [QA report](docs/QA.md) and [animation specification](docs/ANIMATION_SPEC.md) for details.
 
-![巫女りん's sixteen look directions](assets/look-directions.png)
+![Rin (yaoyorozu Outfit)'s sixteen look directions](assets/look-directions.png)
 
 ## License
 

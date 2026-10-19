@@ -1,7 +1,7 @@
 # インストールガイド / Installation Guide
 
 > [!IMPORTANT]
-> 個人・非商用のローカル利用のみ許可されています。再配布、転載、ミラー、同梱、販売、商用利用、素材抽出、視覚素材の改変・派生利用、AI学習利用は禁止されています。詳細は[巫女りん個人利用ライセンス](../LICENSE.md)を確認してください。
+> 個人・非商用のローカル利用のみ許可されています。再配布、転載、ミラー、同梱、販売、商用利用、素材抽出、視覚素材の改変・派生利用、AI学習利用は禁止されています。詳細は[Rin（yaoyorozu衣装）個人利用ライセンス](../LICENSE.md)を確認してください。
 
 ## 必要なもの / Requirements
 
@@ -52,9 +52,9 @@ PowerShellで実行します。
 
 ## 確認 / Verify
 
-`pet.json`の`spritesheetPath`は`spritesheet.webp`、`spriteVersionNumber`は`2`である必要があります。Codex Desktopを完全に終了して起動し直し、Petの選択画面から「巫女りん」を選択します。
+`pet.json`の`spritesheetPath`は`spritesheet.webp`、`spriteVersionNumber`は`2`である必要があります。Codex Desktopを完全に終了して起動し直し、Petの選択画面から「Rin（yaoyorozu衣装）」を選択します。
 
-`pet.json` must use `spritesheet.webp` as its `spritesheetPath` and `2` as its `spriteVersionNumber`. Fully quit and reopen Codex Desktop, then select “巫女りん” from the pet selector.
+`pet.json` must use `spritesheet.webp` as its `spritesheetPath` and `2` as its `spriteVersionNumber`. Fully quit and reopen Codex Desktop, then select “Rin（yaoyorozu衣装）” from the pet selector.
 
 ## 更新 / Update
 

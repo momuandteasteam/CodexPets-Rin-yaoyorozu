@@ -1,4 +1,4 @@
-# 巫女りん Personal-Use License / 巫女りん 個人利用ライセンス
+# Rin（yaoyorozu衣装） Personal-Use License / Rin（yaoyorozu衣装） 個人利用ライセンス
 
 Version 1.1 — 2026-10-19
 
@@ -10,7 +10,7 @@ Copyright © 2026 momuandteasteam and the applicable rights holders. All rights 
 
 ### 1. 適用範囲と権利帰属
 
-このリポジトリはオープンソースまたはオープンコンテンツではありません。巫女りんのキャラクターデザイン、画像、スプライト、アニメーション、プレビュー、設定ファイル、文書、QA資料およびその他の収録物（以下「本素材」）に関する権利は、各権利者に留保されます。
+このリポジトリはオープンソースまたはオープンコンテンツではありません。Rin（yaoyorozu衣装）のキャラクターデザイン、画像、スプライト、アニメーション、プレビュー、設定ファイル、文書、QA資料およびその他の収録物（以下「本素材」）に関する権利は、各権利者に留保されます。
 
 ### 2. 許可される利用
 
@@ -19,7 +19,7 @@ Copyright © 2026 momuandteasteam and the applicable rights holders. All rights 
 - 本リポジトリを閲覧し、自身が管理する端末へダウンロードまたはcloneすること
 - `pet/`内のパッケージを、自身が管理する端末のCodex Desktopへインストールすること
 - インストールおよび私的なバックアップに技術上必要な範囲で複製すること
-- インストールした巫女りんを、個人的かつ非商用の範囲で利用すること
+- インストールしたRin（yaoyorozu衣装）を、個人的かつ非商用の範囲で利用すること
 - ローカル環境への導入に厳密に必要な範囲で、マニフェストまたはパス設定をローカルのみで変更すること
 - 正規の本リポジトリへのリンクを共有すること
 
@@ -63,7 +63,7 @@ GitHub利用規約: https://docs.github.com/en/site-policy/github-terms/github-t
 
 ### 1. Scope and ownership
 
-This repository is not open source or open content. All rights in the 巫女りん character design, images, sprites, animations, previews, configuration files, documentation, QA materials, and all other included materials (collectively, the “Materials”) are reserved by their respective rights holders.
+This repository is not open source or open content. All rights in the Rin（yaoyorozu衣装） character design, images, sprites, animations, previews, configuration files, documentation, QA materials, and all other included materials (collectively, the “Materials”) are reserved by their respective rights holders.
 
 ### 2. Permission granted
 
@@ -72,7 +72,7 @@ An individual who obtains the Materials from this official repository is granted
 - view this repository and download or clone it to devices under that individual’s control;
 - install the package in `pet/` in Codex Desktop on devices under that individual’s control;
 - make copies technically necessary for installation and private backup;
-- use the installed 巫女りん pet for personal, non-commercial purposes;
+- use the installed Rin（yaoyorozu衣装） pet for personal, non-commercial purposes;
 - make local-only manifest or path changes strictly necessary for installation; and
 - share links to this official repository.
 
