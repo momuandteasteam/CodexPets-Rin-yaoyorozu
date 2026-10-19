@@ -1,0 +1,117 @@
+{
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin lifted, face pitched toward top, both pupils high within eyelids. Frontal anchored torso."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Chin raised, nose and visible pupil shift screen-right; face aims above and right of center."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Three-quarter yaw screen-right and raised chin; upper iris positions support up-right gaze."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Nose and eyes point strongly screen-right with modest upward pitch; neck extends upward."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Profile nose projects clearly to screen-right; visible eye looks toward right edge, level chin."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Nose points screen-right while chin dips; lowered eyelids and pupils aim below horizontal."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Head bowed with rightward yaw; nose and gaze below and to right of skull center."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Deep downward pitch with residual screen-right nose displacement; visible eyelid slants downward."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Chin bowed over chest, nose points vertically down, eyelids lowered symmetrically. Body frontal."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Bowed head with slight leftward nose and eye displacement; downward pitch dominates."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Nose and visible eye move screen-left as chin remains low; down-left quadrant clear."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "More leftward head yaw with lowered chin and gaze; downward pitch remains visible."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Profile nose projects clearly to screen-left; visible iris points left with near-level chin."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Chin lifts and nose/eyes turn screen-left; pupil sits toward upper-left visual target."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Head pitches upward with clear leftward nose yaw; pupils raised toward upper-left."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Chin raised nearly vertically, with slight screen-left nose and pupil bias leading into up."
+    }
+  ],
+  "continuity_review": "Lower-body registration remains planted. At 157.5 to 180 there is a small change of head angle and painted detail across generated rows; no reversed direction, scale pop, body teleport or alpha hole. Full loop inspected on native-size labeled contact sheet."
+}

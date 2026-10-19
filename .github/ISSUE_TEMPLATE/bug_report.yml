@@ -1,0 +1,51 @@
+name: Bug report / 不具合報告
+description: Report an installation, display, or animation problem
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ご報告ありがとうございます。秘密情報や個人情報は添付しないでください。
+  - type: input
+    id: codex-version
+    attributes:
+      label: Codex Desktop version
+      placeholder: "Example: 26.x.x"
+    validations:
+      required: true
+  - type: input
+    id: os-version
+    attributes:
+      label: OS and version
+      placeholder: "Example: macOS 15.x or Windows 11"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / 再現手順
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior / 期待した結果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior / 実際の結果
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I restarted Codex Desktop after copying the pet files.
+          required: true
+        - label: I confirmed that pet.json and spritesheet.webp are directly inside ~/.codex/pets/rin-miko.
+          required: true

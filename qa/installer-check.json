@@ -1,0 +1,12 @@
+{
+  "repository": "CodexPets-Rin-Miko",
+  "shell_syntax": "pass",
+  "custom_path_with_spaces": "pass",
+  "reinstall": "pass",
+  "file_bytes": "pass",
+  "local_markdown_links": "pass",
+  "manifest": "pass",
+  "installed_bytes": "match",
+  "sprite_sha256": "0bc73c4d332ec10cd5087084f263d52234eb467905f001aeda8b9687ee81fcfc",
+  "powershell_execution": "not_run_on_macos"
+}
